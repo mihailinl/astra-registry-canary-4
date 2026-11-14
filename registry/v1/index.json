@@ -3,12 +3,12 @@
   "signatures": [
     {
       "key_id": "astra-index-2026a",
-      "sig": "JNbnbpKD5RrtuSeQbLyJPYLw/noGqkLArMaGwGw4exBDYgz66sKKp2FGoVVRk4G52zldPpcGg6FEhPDfahB7AA=="
+      "sig": "HV4iwUVAK01a505ruGhOoNuSjvZ/R9FWljPkrDryM5KMmnqzlcnN3R8A359ewVVKwiMOl0kyYhD3VQiXkyuADA=="
     }
   ],
   "signed": {
-    "expires_at": "2026-12-13T08:44:23Z",
-    "issued_at": "2026-11-13T08:44:23Z",
+    "expires_at": "2026-12-14T10:54:18Z",
+    "issued_at": "2026-11-14T10:54:18Z",
     "plugins": [
       {
         "added_at": "2026-08-10",
